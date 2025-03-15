@@ -1,4 +1,5 @@
 # Amigo Academy Pvt Ltd.
+  <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/amigo_home.jpg" alt="Amigo Academy Home" width="200">
 
 ## About Amigo Academy
 Amigo Academy Pvt Ltd. is a leading educational institution dedicated to shaping the future of students through holistic learning experiences. With a strong commitment to quality education and personal development, Amigo Academy nurtures young minds for success.
@@ -61,4 +62,15 @@ With the successful CRM and ERP implementation, Amigo Academy aims to:
 
 ## Conclusion
 The collaboration with **Ace360degree.com** has empowered Amigo Academy Pvt Ltd. with robust digital solutions, enhancing efficiency and scalability. The CRM and ERP implementation has positioned Amigo Academy as a **technology-driven institution**, prepared for future growth, innovation, and enriched student experiences.
+
+## Output
+<div style="display:flex;">
+    <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/Counsellor.png" alt="Amigo Academy Home" width="300">
+    <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/login_admin.png" alt="Amigo Academy Home" width="300">
+    <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/receptions.png" alt="Amigo Academy Home" width="300">
+    <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/uhsduhfuhwuhf34y9.png" alt="Amigo Academy Home" width="300">
+    <img src="https://raw.githubusercontent.com/goldstring/Amigo-Academy-ERP/main/images/yuy79y23697wfhi.png" alt="Amigo Academy Home" width="300">
+
+</div>
+
 
